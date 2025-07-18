@@ -60,7 +60,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-- Questions to ask before starting with dashboard
+Questions to ask before starting with dashboard
 - What is the objective of building this PowerBi dashboard?
 - In what terms the success of this project will be measured?
 - What will be time dead-line of the project?
@@ -72,3 +72,7 @@ Project kick off session, where you should get clear of for what and why this pr
 - What can go wrong while building this project?
 - What are all the resources/ data needed to build this dashboard?
 - Is there any inputs from stakeholders in terms of design and views of the dashboard?
+
+After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
+
+
