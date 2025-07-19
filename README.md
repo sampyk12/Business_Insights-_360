@@ -137,4 +137,60 @@ Fact table : It will have the data about the transactions
 Importing data into PowerBi 
  - As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
+Data Model
+- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- Poor data modeling affects the over all performance of the report.
+- Following Good practices of data modeling is must. 
+- In this project, we have followed Snowfall data modeling method.
+
+<img width="561" height="552" alt="image" src="https://github.com/user-attachments/assets/a49ca505-b40a-4345-9a18-5a8f0ba59ddc" />
+
+Dashboard designing
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+Home view
+
+  In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+- Home Page
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Support
+
+
+Home Page
+
+<img width="1382" height="780" alt="image" src="https://github.com/user-attachments/assets/2df7da3c-6939-4977-80b6-5643868b263f" />
+
+Finance View
+
+<img width="1326" height="740" alt="image" src="https://github.com/user-attachments/assets/a139bff0-9922-448d-a0bf-c841a46284aa" />
+
+Sales View
+
+<img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/b457a018-f0d6-44c8-b6ff-d13f321ded81" />
+
+Marketing View
+
+<img width="1327" height="742" alt="image" src="https://github.com/user-attachments/assets/8464057b-cba4-48a9-9fa8-88bb27ac7ca3" />
+
+Supply chain View
+
+<img width="1323" height="738" alt="image" src="https://github.com/user-attachments/assets/a3e7ea8e-e3ef-4e07-8628-5a41e247f6f3" />
+
+Executive View
+
+<img width="1333" height="742" alt="image" src="https://github.com/user-attachments/assets/ded4e0a8-98de-4005-945b-326ee7e670d4" />
+
+
+  Project Outcome
+
+  By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
+
+
+
 
