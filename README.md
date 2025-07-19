@@ -186,6 +186,7 @@ Executive View
 <img width="1333" height="742" alt="image" src="https://github.com/user-attachments/assets/ded4e0a8-98de-4005-945b-326ee7e670d4" />
 
 
+  
   Project Outcome
 
   By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
