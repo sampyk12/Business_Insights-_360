@@ -1,10 +1,10 @@
 # Business_Insights_360
 
-  Project Overview : 
+  ## Project Overview : 
      
  AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
- Tech stacks : 
+ ### Tech stacks : 
  
 - SQL 
 - PowerBi Desktop 
@@ -13,7 +13,7 @@
 - DAX studio (for optimizing the report)
 - Project charter file
 
-PowerBI techniques Learnt :
+ ### PowerBI techniques Learnt :
 - What are all the questions should be asked before staring the project
 - calculated columns
 - creating measure using DAX language
@@ -32,7 +32,7 @@ PowerBI techniques Learnt :
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
 
-Business related terms
+## Business related terms
 - Gross price
 - Pre-invoice deductions
 - Post-Invoice deductions
@@ -48,7 +48,7 @@ Business related terms
 - Distributors
 - Consumer
 
-Company’s back ground
+### Company’s back ground
 
   AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
@@ -60,7 +60,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-Questions to ask before starting with dashboard
+### Questions to ask before starting with dashboard
 - What is the objective of building this PowerBi dashboard?
 - In what terms the success of this project will be measured?
 - What will be time dead-line of the project?
@@ -75,7 +75,7 @@ Questions to ask before starting with dashboard
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
-Dataset Understanding.
+### Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
 Dimension table : It will have the static data like details of customer and products
@@ -134,7 +134,7 @@ Fact table : It will have the data about the transactions
     - Post_invoice_deductions
        - Post invoice deductions and other deductions details
 
-Importing data into PowerBi 
+## Importing data into PowerBi 
  - As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
 Data Model
